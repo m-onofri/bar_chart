@@ -1,0 +1,27 @@
+.graph {
+    margin: auto;
+    width: 1200px;
+}
+
+h1 {
+    text-align: center;
+  }
+  
+  .d3-tip {
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 6px;
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 1rem;
+  }
+  rect.bar:hover {
+    fill: green;
+  }
+  
+  .x-info,
+  .y-info {
+   font-size:1.5rem;
+   font-weight: bold;
+    
+  }
